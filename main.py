@@ -67,5 +67,4 @@ editor.pack()
 code_output = Text(height=10)
 code_output.pack()
 
-
 compiler.mainloop()
